@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+results/figures/*.png
+results/figures/*.pdf
+results/tables/*.csv
